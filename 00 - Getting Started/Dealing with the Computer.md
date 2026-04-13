@@ -1,2 +1,11 @@
 [[Setting Up]]
 
+To Start: I am pleading with you to properly and completely shut the computer down with each use. I promise it wont kill you and can only help that poor geriatric thing run faster
+
+To actually use it:
+1. Log into the Theater Guild profile, password is TheatreGuild1234*
+2. Navigate to file explorer and find the USB stick
+3. Within it there should be a file called Multiplay.exe open that, what ever the last file or "production" will open
+4. You can either use that or create a new production just make sure that the production is getting saved to the USB stick and not the system files.
+5. From there you can import any .mp3 or really any audio file, 
+

@@ -1,3 +1,5 @@
+
+[[misc]]
 So sophomore year I got bored and read/annotated the light manual cover to cover and took some notes. I forgot about it completely until I started doing this, and well I found it so I'm just just gonna put it here as like a nod to younger me and cause I think it could be useful to someone. Don't worry I didn't proofread it I have full faith in 16 year old me.
 
 **
