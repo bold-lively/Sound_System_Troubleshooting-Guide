@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "README - START HERE!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "README - START HERE!"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 -Yamaha LS9-32/Signing in.md",
+                "file": "README - START HERE!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signing in"
+              "title": "README - START HERE!"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 -Yamaha LS9-32/Signing in.md",
+                "file": "README - START HERE!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Signing in"
+              "title": "Backlinks for README - START HERE!"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 -Yamaha LS9-32/Signing in.md",
+                "file": "README - START HERE!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Signing in"
+              "title": "Outgoing links from README - START HERE!"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 -Yamaha LS9-32/Signing in.md",
+                "file": "README - START HERE!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Signing in"
+              "title": "Outline of README - START HERE!"
             }
           }
         ]
@@ -199,17 +199,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "210ce8cf518b616d",
+  "active": "857a85f42fd00bf6",
   "lastOpenFiles": [
+    "05 - troubleshooting",
+    "04 - Sound Cues",
+    "01 - Yamaha LS9-32/Signing into Admin Account.md",
+    "03 - Battery Crap",
+    "02 - Micing System",
+    "00 - Getting Started",
+    "images/Pasted image 20260412233301.png",
     "images/testimage.png",
-    "01 -Yamaha LS9-32/Signing in.md",
     "images/Pasted image 20260412232942.png",
     "images/Pasted image 20260412231736.png",
     "images/Pasted image 20260412231122.png",
     "images",
-    "README.md",
+    "README - START HERE!.md",
     "z -tags",
     "Yamaha LS9-32.md",
-    "01 -Yamaha LS9-32"
+    "01 - Yamaha LS9-32"
   ]
 }
