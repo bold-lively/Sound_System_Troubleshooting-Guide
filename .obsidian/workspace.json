@@ -11,12 +11,14 @@
             "id": "def2c5726f216f2a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "08 - Manuals/BLX-user-guide.pdf"
+                "file": "02 - Micing System/BLX System.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "BLX-user-guide"
+              "icon": "lucide-file",
+              "title": "BLX System"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Manuals/BLX-user-guide.pdf",
+                "file": "02 - Micing System/BLX System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BLX-user-guide"
+              "title": "Backlinks for BLX System"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Manuals/BLX-user-guide.pdf",
+                "file": "02 - Micing System/BLX System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BLX-user-guide"
+              "title": "Outgoing links from BLX System"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Manuals/BLX-user-guide.pdf",
+                "file": "02 - Micing System/BLX System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BLX-user-guide"
+              "title": "Outline of BLX System"
             }
           },
           {
@@ -194,8 +196,8 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
-    "08 - Manuals/BHSTG.pdf",
     "08 - Manuals/BLX-user-guide.pdf",
+    "08 - Manuals/BHSTG.pdf",
     "08 - Manuals/ls9_en_om_j0.pdf",
     "08 - Manuals/Channelhookup.pdf",
     "README - START HERE!.md",
