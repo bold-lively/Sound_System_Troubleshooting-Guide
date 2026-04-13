@@ -11,14 +11,12 @@
             "id": "def2c5726f216f2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README - START HERE!.md",
-                "mode": "source",
-                "source": false
+                "file": "08 - Manuals/BLX-user-guide.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README - START HERE!"
+              "icon": "lucide-file-text",
+              "title": "BLX-user-guide"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "08 - Manuals/BLX-user-guide.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README - START HERE!"
+              "title": "Backlinks for BLX-user-guide"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "08 - Manuals/BLX-user-guide.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README - START HERE!"
+              "title": "Outgoing links from BLX-user-guide"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "08 - Manuals/BLX-user-guide.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README - START HERE!"
+              "title": "Outline of BLX-user-guide"
             }
           },
           {
@@ -196,6 +194,12 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
+    "08 - Manuals/BHSTG.pdf",
+    "08 - Manuals/BLX-user-guide.pdf",
+    "08 - Manuals/ls9_en_om_j0.pdf",
+    "08 - Manuals/Channelhookup.pdf",
+    "README - START HERE!.md",
+    "08 - Manuals",
     "02 - Micing System/BLX System.md",
     "01 - Yamaha LS9-32/Signing into Admin Account.md",
     "01 - Yamaha LS9-32/Channel Set-Up.md",
@@ -206,7 +210,6 @@
     "images/set-up_admin.png",
     "images/mode_setup.png",
     "images/layers.png",
-    "README - START HERE!.md",
     "07 - maintenance stuff",
     "tags/misc.md",
     "tags/Setting Up.md",
@@ -215,15 +218,11 @@
     "04 - Sound Cues",
     "03 - Battery Crap",
     "02 - Micing System",
-    "00 - Getting Started",
     "images/Pasted image 20260412233301.png",
     "images/testimage.png",
     "images/Pasted image 20260412232942.png",
     "images/Pasted image 20260412231736.png",
     "images/Pasted image 20260412231122.png",
-    "images",
-    "z -tags",
-    "Yamaha LS9-32.md",
-    "01 - Yamaha LS9-32"
+    "Yamaha LS9-32.md"
   ]
 }
