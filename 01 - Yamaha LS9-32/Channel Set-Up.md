@@ -1,7 +1,7 @@
 [Setting Up](tags/Setting%20Up.md)
 When doing anything that requires the belt pack mics, the board should be in "show" mode. Riordan and other admin often put it in "speech" mode, which while while you could use for a show, it's not ideal given that it scrambles the mic on the board. This way the channels on the board line up with the numbers on the pack itself. 
 
-![69](../images/Pasted%20image%2020260413111555.png)
+![69](images/mode_setup.png)
 
 
 (Blue is Speech, Purple is show)
@@ -12,5 +12,5 @@ The first layer is where you're mics and sound cues will be. 1 and 2 are handhel
 (It is also quite common for a very staticky if the channel is open even if nothing is being played from the computer, this is normal cause the cable is lowkey crap) - though if Fergie's reading this and wants to get a new XLR to 3.5mm cable this part of the section might not be needed, wink wink nudge nudge.
 
 If you want to try to reduce the static, it typically resolves itself but resetting the computer and reseating the cable can reduce it.
-![605](../images/Pasted%20image%2020260413114423.png)
+![605](images/Channel_setup.png)
 (Pink is handheld, Green is belt pack, blue is computer output)
