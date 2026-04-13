@@ -25,10 +25,14 @@
             "id": "210ce8cf518b616d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 -Yamaha LS9-32/Signing in.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Signing in"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 -Yamaha LS9-32/Signing in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Signing in"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 -Yamaha LS9-32/Signing in.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Signing in"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 -Yamaha LS9-32/Signing in.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Signing in"
             }
           }
         ]
@@ -194,7 +201,11 @@
   },
   "active": "210ce8cf518b616d",
   "lastOpenFiles": [
+    "Pasted image 20260412231122.png",
+    "01 -Yamaha LS9-32/Signing in.md",
     "README.md",
-    "Yamaha LS9-32.md"
+    "z -tags",
+    "Yamaha LS9-32.md",
+    "01 -Yamaha LS9-32"
   ]
 }
