@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Getting Started/Dealing with the Computer.md",
+                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dealing with the Computer"
+              "title": "Signing into Admin Account"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Getting Started/Dealing with the Computer.md",
+                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dealing with the Computer"
+              "title": "Backlinks for Signing into Admin Account"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Getting Started/Dealing with the Computer.md",
+                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dealing with the Computer"
+              "title": "Outgoing links from Signing into Admin Account"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Getting Started/Dealing with the Computer.md",
+                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dealing with the Computer"
+              "title": "Outline of Signing into Admin Account"
             }
           },
           {
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "def2c5726f216f2a",
+  "active": "857a85f42fd00bf6",
   "lastOpenFiles": [
+    "README - START HERE!.md",
+    "00 - Getting Started/Dealing with the Computer.md",
+    "00 - Getting Started/How To Turn the Damn thing On.md",
     "00 - Getting Started/A Little Aside for the Light Board.md",
     "01 - Yamaha LS9-32/Signing into Admin Account.md",
     "tags/misc.md",
-    "README - START HERE!.md",
     "tags/Setting Up.md",
-    "00 - Getting Started/Dealing with the Computer.md",
-    "00 - Getting Started/How To Turn the Damn thing On.md",
     "tags",
     "05 - troubleshooting",
     "04 - Sound Cues",

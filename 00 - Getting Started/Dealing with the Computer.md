@@ -7,5 +7,6 @@ To actually use it:
 2. Navigate to file explorer and find the USB stick
 3. Within it there should be a file called Multiplay.exe open that, what ever the last file or "production" will open
 4. You can either use that or create a new production just make sure that the production is getting saved to the USB stick and not the system files.
-5. From there you can import any .mp3 or really any audio file, 
+5. From there you can import any .mp3 or really any audio file, this can be done by dragging and dropping from file explorer into the program
+6. Don't forget to save the production anytime you make changes to it, seems obvious but this ain't google docs there's no autosave
 
