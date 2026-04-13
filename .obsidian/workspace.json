@@ -11,12 +11,14 @@
             "id": "def2c5726f216f2a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "08 - Manuals/Channelhookup.pdf"
+                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Channelhookup"
+              "icon": "lucide-file",
+              "title": "Uh oh the board wont turn on at all"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Manuals/Channelhookup.pdf",
+                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Channelhookup"
+              "title": "Backlinks for Uh oh the board wont turn on at all"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Manuals/Channelhookup.pdf",
+                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Channelhookup"
+              "title": "Outgoing links from Uh oh the board wont turn on at all"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Manuals/Channelhookup.pdf",
+                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Channelhookup"
+              "title": "Outline of Uh oh the board wont turn on at all"
             }
           },
           {
@@ -194,17 +196,19 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
+    "tags/troubleshooting.md",
+    "05 - troubleshooting/Uh oh the board wont turn on at all.md",
+    "01 - Yamaha LS9-32/Signing into Admin Account.md",
+    "01 - Yamaha LS9-32/Channel Set-Up.md",
+    "08 - Manuals/Channelhookup.pdf",
     "00 - Getting Started/A Little Aside for the Light Board.md",
     "00 - Getting Started/How To Turn the Damn thing On.md",
     "00 - Getting Started/Dealing with the Computer.md",
-    "01 - Yamaha LS9-32/Signing into Admin Account.md",
-    "01 - Yamaha LS9-32/Channel Set-Up.md",
     "02 - Micing System/BLX System.md",
     "08 - Manuals/BLX-user-guide.pdf",
     "08 - Manuals/theater_guide_ea.pdf",
     "08 - Manuals/BHSTG.pdf",
     "08 - Manuals/ls9_en_om_j0.pdf",
-    "08 - Manuals/Channelhookup.pdf",
     "README - START HERE!.md",
     "08 - Manuals",
     "images/Channel_setup.png",
