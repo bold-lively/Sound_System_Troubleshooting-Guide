@@ -1,0 +1,1 @@
+When doing anything that requires the belt pack mics, the board should be in "show" mode. 
