@@ -2,4 +2,4 @@
 
 Upon start up 
 image test
-![[Pasted image 20260412231122.png]]
+![](Pasted%20image%2020260412231736.png)

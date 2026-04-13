@@ -25,12 +25,14 @@
             "id": "210ce8cf518b616d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20260412231122.png"
+                "file": "01 -Yamaha LS9-32/Signing in.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260412231122"
+              "icon": "lucide-file",
+              "title": "Signing in"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20260412231122.png",
+                "file": "01 -Yamaha LS9-32/Signing in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260412231122"
+              "title": "Backlinks for Signing in"
             }
           },
           {
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20260412231122.png",
+                "file": "01 -Yamaha LS9-32/Signing in.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20260412231122"
+              "title": "Outgoing links from Signing in"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20260412231122.png",
+                "file": "01 -Yamaha LS9-32/Signing in.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260412231122"
+              "title": "Outline of Signing in"
             }
           }
         ]
@@ -197,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "857a85f42fd00bf6",
+  "active": "210ce8cf518b616d",
   "lastOpenFiles": [
-    "01 -Yamaha LS9-32/Signing in.md",
+    "images/Pasted image 20260412231736.png",
     "images/Pasted image 20260412231122.png",
+    "01 -Yamaha LS9-32/Signing in.md",
     "images",
     "README.md",
     "z -tags",
