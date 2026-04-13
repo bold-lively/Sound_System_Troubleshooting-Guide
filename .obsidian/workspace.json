@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README - START HERE!"
+              "title": "Signing into Admin Account"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README - START HERE!"
+              "title": "Backlinks for Signing into Admin Account"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README - START HERE!"
+              "title": "Outgoing links from Signing into Admin Account"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README - START HERE!"
+              "title": "Outline of Signing into Admin Account"
             }
           },
           {
@@ -196,12 +196,12 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
+    "README - START HERE!.md",
     "07 - maintenance stuff",
     "00 - Getting Started/How To Turn the Damn thing On.md",
     "00 - Getting Started/A Little Aside for the Light Board.md",
     "00 - Getting Started/Dealing with the Computer.md",
     "01 - Yamaha LS9-32/Signing into Admin Account.md",
-    "README - START HERE!.md",
     "tags/misc.md",
     "tags/Setting Up.md",
     "tags",
