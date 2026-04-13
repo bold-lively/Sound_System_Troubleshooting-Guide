@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
+                "file": "01 - Yamaha LS9-32/Channel Set-Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signing into Admin Account"
+              "title": "Channel Set-Up"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
+                "file": "01 - Yamaha LS9-32/Channel Set-Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Signing into Admin Account"
+              "title": "Backlinks for Channel Set-Up"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
+                "file": "01 - Yamaha LS9-32/Channel Set-Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Signing into Admin Account"
+              "title": "Outgoing links from Channel Set-Up"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Yamaha LS9-32/Signing into Admin Account.md",
+                "file": "01 - Yamaha LS9-32/Channel Set-Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Signing into Admin Account"
+              "title": "Outline of Channel Set-Up"
             }
           },
           {
@@ -196,12 +196,12 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
-    "01 - Yamaha LS9-32/Channel Set-Up.md",
     "01 - Yamaha LS9-32/Signing into Admin Account.md",
-    "images/Channel_setup.png",
     "00 - Getting Started/Dealing with the Computer.md",
-    "00 - Getting Started/How To Turn the Damn thing On.md",
     "00 - Getting Started/A Little Aside for the Light Board.md",
+    "00 - Getting Started/How To Turn the Damn thing On.md",
+    "01 - Yamaha LS9-32/Channel Set-Up.md",
+    "images/Channel_setup.png",
     "images/set-up_admin.png",
     "images/mode_setup.png",
     "images/layers.png",
