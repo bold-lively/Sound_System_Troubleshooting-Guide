@@ -11,10 +11,14 @@
             "id": "def2c5726f216f2a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README - START HERE!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README - START HERE!"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README - START HERE!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README - START HERE!"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README - START HERE!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README - START HERE!"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README - START HERE!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README - START HERE!"
             }
           },
           {
@@ -190,9 +197,11 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
+    "tags/Setting Up.md",
     "00 - Getting Started/Dealing with the Computer.md",
     "00 - Getting Started/How To Turn the Damn thing On.md",
     "00 - Getting Started/A Little Aside for the Light Board.md",
+    "tags",
     "README - START HERE!.md",
     "05 - troubleshooting",
     "04 - Sound Cues",

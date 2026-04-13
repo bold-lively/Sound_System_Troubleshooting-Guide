@@ -1,4 +1,4 @@
-#setting_up (If you need this I'm a twinge worried)
+[[Setting Up]] (If you need this I'm a twinge worried)
 
 1. Power rocker switch on the rack itself (this turns on the board and the mic receivers)
 2. Power on the preamp (if there's a red standby light on your doing it wrong)
