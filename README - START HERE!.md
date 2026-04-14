@@ -10,4 +10,6 @@ In case you couldn't tell this is an extreme work in progress, I'll get this don
 
 [BLX User Guide - Shure](https://www.shure.com/en-US/docs/guide/BLX)
 
+It can update
+
 
