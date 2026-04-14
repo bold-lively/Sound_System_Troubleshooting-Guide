@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README - START HERE!"
+              "title": "Uh oh the board wont turn on at all"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README - START HERE!"
+              "title": "Backlinks for Uh oh the board wont turn on at all"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README - START HERE!"
+              "title": "Outgoing links from Uh oh the board wont turn on at all"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README - START HERE!.md",
+                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README - START HERE!"
+              "title": "Outline of Uh oh the board wont turn on at all"
             }
           },
           {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,24 +197,24 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
-    "05 - troubleshooting/Uh oh the board wont turn on at all.md",
-    "tags/troubleshooting.md",
-    "01 - Yamaha LS9-32/Signing into Admin Account.md",
-    "01 - Yamaha LS9-32/Channel Set-Up.md",
-    "08 - Manuals/Channelhookup.pdf",
-    "00 - Getting Started/A Little Aside for the Light Board.md",
-    "00 - Getting Started/How To Turn the Damn thing On.md",
-    "00 - Getting Started/Dealing with the Computer.md",
     "02 - Micing System/BLX System.md",
-    "08 - Manuals/BLX-user-guide.pdf",
     "08 - Manuals/theater_guide_ea.pdf",
     "08 - Manuals/BHSTG.pdf",
-    "08 - Manuals/ls9_en_om_j0.pdf",
-    "README - START HERE!.md",
-    "08 - Manuals",
     "images/Channel_setup.png",
     "images/set-up_admin.png",
     "images/mode_setup.png",
+    "01 - Yamaha LS9-32/Signing into Admin Account.md",
+    "05 - troubleshooting/Uh oh the board wont turn on at all.md",
+    "00 - Getting Started/A Little Aside for the Light Board.md",
+    "08 - Manuals/BLX-user-guide.pdf",
+    "01 - Yamaha LS9-32/Channel Set-Up.md",
+    "00 - Getting Started/How To Turn the Damn thing On.md",
+    "00 - Getting Started/Dealing with the Computer.md",
+    "README - START HERE!.md",
+    "08 - Manuals/Channelhookup.pdf",
+    "tags/troubleshooting.md",
+    "08 - Manuals/ls9_en_om_j0.pdf",
+    "08 - Manuals",
     "images/layers.png",
     "07 - maintenance stuff",
     "tags/misc.md",

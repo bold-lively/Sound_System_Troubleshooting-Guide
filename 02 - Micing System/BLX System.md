@@ -8,3 +8,5 @@ On the belt pack mics we use rechargeable batteries (NiMH), however, if using tr
 
 Though even at solid red you don't really have an hour so don't let them get to that point.
 
+
+
