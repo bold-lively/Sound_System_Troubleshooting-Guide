@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - troubleshooting/Uh oh the board wont turn on at all.md",
+                "file": "01 - Yamaha LS9-32/Layering precautions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uh oh the board wont turn on at all"
+              "title": "Layering precautions"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
+    "01 - Yamaha LS9-32/Layering precautions.md",
+    "05 - troubleshooting/Uh oh the board wont turn on at all.md",
     "02 - Micing System/BLX System.md",
     "08 - Manuals/theater_guide_ea.pdf",
     "08 - Manuals/BHSTG.pdf",
@@ -204,7 +206,6 @@
     "images/set-up_admin.png",
     "images/mode_setup.png",
     "01 - Yamaha LS9-32/Signing into Admin Account.md",
-    "05 - troubleshooting/Uh oh the board wont turn on at all.md",
     "00 - Getting Started/A Little Aside for the Light Board.md",
     "08 - Manuals/BLX-user-guide.pdf",
     "01 - Yamaha LS9-32/Channel Set-Up.md",
