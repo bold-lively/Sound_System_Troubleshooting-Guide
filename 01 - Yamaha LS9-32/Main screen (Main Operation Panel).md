@@ -1,4 +1,4 @@
-![](images/Pasted%20image%2020260418104423.png)
+![](../images/Pasted%20image%2020260418104423.png)
 Things that we actually use:
  - Display access -  these change the menu screen, nothing there's really nothing you cam mess up here, to get back just keep hitting the home button.
  - Layer - Everything should be on layer 1 or channel (1 - 32)
