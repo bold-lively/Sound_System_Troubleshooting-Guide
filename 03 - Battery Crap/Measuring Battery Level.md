@@ -4,4 +4,4 @@ Best way to check is to use a multimeter and check the voltage level of the batt
 
 To check the voltage level turn the dial until you see volts or turn the dial til it's straight up and then one to the left. From there you hold the end of the red wire to the positive end of the batter and the black wire to the negative end of the battery. It really isn't rocket science.
 
-From there you'll get a reading 
+From there you'll get a reading between .90 and 1.50 roughly. The batteries buy and large aren't usable for a full act under 1.0. I'm gonna put 1.4 as the ideal charge as over time the cells in the battery will degrade and the capacity will diminish.  

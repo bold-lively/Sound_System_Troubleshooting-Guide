@@ -1,1 +1,2 @@
-- Please I beg of you when you mic do not switch layers 
+- Please I beg of you when you are doing mic checks do not switch layers, that's it
+- The layers have a memory so that when you switch between them it can go back to how it was before.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Battery Crap/Measuring Battery Level.md",
+                "file": "02 - Micing System/Best micing practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Measuring Battery Level"
+              "title": "Best micing practices"
             }
           }
         ]
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,24 +197,25 @@
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
     "02 - Micing System/BLX System.md",
+    "02 - Micing System/Best micing practices.md",
+    "00 - Getting Started/How To Turn the Damn thing On.md",
+    "00 - Getting Started/Dealing with the Computer.md",
+    "00 - Getting Started/A Little Aside for the Light Board.md",
     "03 - Battery Crap/Measuring Battery Level.md",
+    "01 - Yamaha LS9-32/Signing into Admin Account.md",
+    "01 - Yamaha LS9-32/Main screen (Main Operation Panel).md",
+    "01 - Yamaha LS9-32/Layering precautions.md",
+    "01 - Yamaha LS9-32/Cueing & Scene Recall.md",
+    "01 - Yamaha LS9-32/Channel Set-Up.md",
     "08 - Manuals/BHSTG.pdf",
     "README.md",
-    "01 - Yamaha LS9-32/Cueing & Scene Recall.md",
-    "01 - Yamaha LS9-32/Main screen (Main Operation Panel).md",
     "images/Pasted image 20260418104423.png",
-    "01 - Yamaha LS9-32/Layering precautions.md",
     "05 - troubleshooting/Uh oh the board wont turn on at all.md",
     "08 - Manuals/theater_guide_ea.pdf",
     "images/Channel_setup.png",
     "images/set-up_admin.png",
     "images/mode_setup.png",
-    "01 - Yamaha LS9-32/Signing into Admin Account.md",
-    "00 - Getting Started/A Little Aside for the Light Board.md",
     "08 - Manuals/BLX-user-guide.pdf",
-    "01 - Yamaha LS9-32/Channel Set-Up.md",
-    "00 - Getting Started/How To Turn the Damn thing On.md",
-    "00 - Getting Started/Dealing with the Computer.md",
     "08 - Manuals/Channelhookup.pdf",
     "tags/troubleshooting.md",
     "08 - Manuals/ls9_en_om_j0.pdf",
