@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Micing System/Best micing practices.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best micing practices"
+              "title": "README"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "def2c5726f216f2a",
   "lastOpenFiles": [
-    "02 - Micing System/BLX System.md",
+    "08 - Manuals/Channelhookup.pdf",
     "02 - Micing System/Best micing practices.md",
+    "02 - Micing System/BLX System.md",
     "00 - Getting Started/How To Turn the Damn thing On.md",
     "00 - Getting Started/Dealing with the Computer.md",
     "00 - Getting Started/A Little Aside for the Light Board.md",
@@ -216,7 +217,6 @@
     "images/set-up_admin.png",
     "images/mode_setup.png",
     "08 - Manuals/BLX-user-guide.pdf",
-    "08 - Manuals/Channelhookup.pdf",
     "tags/troubleshooting.md",
     "08 - Manuals/ls9_en_om_j0.pdf",
     "08 - Manuals",
